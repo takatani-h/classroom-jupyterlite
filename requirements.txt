@@ -8,6 +8,3 @@ jupyterlite-pyodide-kernel==0.6.1
 
 # Language support (optional)
 jupyterlab-language-pack-ja-JP
-
-# Python Control Systems Library
-control
